@@ -1,4 +1,4 @@
-### Hi! My name is Uwa
+### Hi! My name is Uwa :)
 
 - 🔭 I’m currently working on ... learning how to use GitHub!
 - 🌱 I’m currently learning ...  how to use github lmao
@@ -7,7 +7,7 @@
 - 💬 Ask me about ... how i plan to learn github
 - 📫 How to reach me: ... teach me how to use github
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... i love video games
 
 
 <!--
