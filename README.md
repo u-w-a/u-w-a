@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi! My name is Uwa
+
+- 🔭 I’m currently working on ... learning how to use GitHub!
+- 🌱 I’m currently learning ...  how to use github lmao
+- 👯 I’m looking to collaborate on ... projects using github idk yet
+- 🤔 I’m looking for help with ...  learning GitHub
+- 💬 Ask me about ... how i plan to learn github
+- 📫 How to reach me: ... teach me how to use github
+- 😄 Pronouns: ... she/her
+- ⚡ Fun fact: ...
+
 
 <!--
 **u-w-a/u-w-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
